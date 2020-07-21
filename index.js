@@ -13,3 +13,4 @@ exports.get = function(event, context, callback) {
 
   callback(null, result);
 };
+console.log("Hello World World!");
